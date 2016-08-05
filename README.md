@@ -1,5 +1,5 @@
 # csc418_3D_Game
-A 3D bird flying game;Try to collect white balls and avoid red balls.
+A 3D bird flying game;Try to collect white balls and avoid red balls. Using keyboard A,W,S,D to control direction and using I,K to move forward and backward.
 - No points, game exits when red ball touches you.
 - White/Red balls have a speed that is away/towards your position.
 - Move around by turning up/down/left/right and moving forward/back.
